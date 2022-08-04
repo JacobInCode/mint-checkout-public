@@ -1,0 +1,10 @@
+{
+  "name": "🔥 Mint Name",
+  "isFreeMint": false,
+  "totalSupply": 10,
+  "description": "Description of mint.",
+  "mint": {
+    "date": "06.06.2022",
+    "price": 0.01
+  }
+}
